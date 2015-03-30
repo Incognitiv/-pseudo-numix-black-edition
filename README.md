@@ -5,9 +5,9 @@ I just forked [Numix](https://numixproject.org/) and [Ultra Flat Icons](http://g
 Pseudo-Numix-Black-Edition is a modern flat theme, which is a combination of dark elements, but without the high amount of orange elements (like in the original Numix). Included files are for Cinnamon, GTK-2.0, GTK-3.0 or Metacity.
 
 # Manual installation:
-1. If you want to install this package, just extract the zip file to the themes directory, in example `~/.themes` and `~/.icons`.
+1. If you want to install this package, just extract content of the zip file to the root directory of your username directory, in example `~/` or `/home/YOUR_USERNAME`. When prompted for the replace files, just confirm it.
 
-2. Next, you must go to System Settings → Themes and in the "Installed" tab, choose Pseudo-Numix-Black-Edition from the list. After that, go to "Other Settings" and choose Pseudo-Numix-Black-Edition on the "Controls" and "Window borders" drop-downs.
+2. Next, if you are using Cinnamon, you must go to System Settings → Themes and in the "Installed" tab, choose Pseudo-Numix-Black-Edition from the list. After that, go to "Other Settings" and choose Pseudo-Numix-Black-Edition on the "Controls" and "Window borders" drop-downs.
 
 # Requirements:
 Tested on Cinnamon 2.4, but everything works in any Desktop Environment, which supports GTK-2.0, GTK-3.0 or Metacity.
