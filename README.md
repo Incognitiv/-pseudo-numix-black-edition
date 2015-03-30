@@ -1,2 +1,2 @@
 # -pseudo-numix-black-edition
-This repository contains just a fork of Numix Project, which I modified to be a black theme.
+This repository contains fork of Numix Project, which now is set to be a black theme.
