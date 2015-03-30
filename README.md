@@ -1,6 +1,7 @@
-# Description:
+# Copyright information:
 I just forked [Numix](https://numixproject.org/) and [Ultra Flat Icons](http://gnome-look.org/content/show.php/Ultra-Flat-Icons?content=167477) and edited it a little. All copyrights belong to their respective owners, only license was changed to BSD.
 
+# Description:
 Pseudo-Numix-Black-Edition is a modern flat theme, which is a combination of dark elements, but without the high amount of orange elements (like in the original Numix). Included files are for Cinnamon, GTK-2.0, GTK-3.0 or Metacity.
 
 # Manual installation:
